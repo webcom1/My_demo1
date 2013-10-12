@@ -6,7 +6,7 @@
         id        = "998QY78J68.com.idweb.m1"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>m1</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
